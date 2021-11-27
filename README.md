@@ -1,15 +1,12 @@
 <img src="https://raw.githubusercontent.com/hifiaz/Qurani/master/images/Icon.png" width="250">
 
-# Alqurani
+# Quran Teacher
 
 This app has release in google play, free [Google Play](https://play.google.com/store/apps/details?id=id.duende.alqurani&hl=en)
 
 # Features
 
-- List of Surah
-- Translate of surah
-- Tafsir of surah
-- List of daily du'a
+
 
 ### Contribute
 
@@ -21,12 +18,6 @@ requires :
 
 Todo:
 
-- Asmaul husna
-- Highlight surah/ayah
-- Bookmark surah
-- Local notification
-- Prayer schedule
-- Kiblah
 
 ### Resource
 
